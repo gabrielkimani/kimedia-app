@@ -1,0 +1,5 @@
+{
+    "html.format.contentUnformatted": "",
+    "prettier.endOfLine": "auto",
+    "prettier.jsxSingleQuote": true
+}
